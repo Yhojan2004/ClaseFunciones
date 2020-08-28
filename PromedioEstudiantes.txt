@@ -1,0 +1,5 @@
+Juan = 4.25
+,Daniela = 4.1
+,Hilary = 4.4
+,Lucas = 4.5
+,Eva = 4.5
